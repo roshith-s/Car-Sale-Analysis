@@ -58,11 +58,6 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 - Week
 - Year
 
-### DashBoard 
-
-![home1](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a39d22f2-eff5-400d-b99d-7c5f2efcc165)
-![home2](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/93db30a6-bf1e-4edd-918b-11cf05cddc18)
-
 **Problem Statement 1: KPI’s**
 
 **Sales Overview:**
